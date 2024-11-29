@@ -4,7 +4,7 @@ A fun game.
 ## Overview of the solution
 In this game, the user will have to dodge llama spit to survive and attain the highest score.
 
-![Llama](./images/Llama-1.png)
+![Llama](./images/Llama-1.jpeg)
 **Figure1 – Llama Dodge**
 
 ## Getting started
