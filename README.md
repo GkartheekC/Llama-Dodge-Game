@@ -4,7 +4,7 @@ A fun game.
 ## Overview of the solution
 In this game, the user will have to dodge llama spit to survive and attain the highest score.
 
-![Llama](./app/Llama.png)
+![Llama](./images/Llama-1.png)
 **Figure1 – Llama Dodge**
 
 ## Getting started
@@ -32,6 +32,9 @@ cd app
 python llamadodge.py
 
 ```
+
+## Documentation
+* To know more about the design and architecture of the game, you can refer to the documentation/LlamaDodgeDocumentation.pdf file.
 
 ## Authors and acknowledgment
 * Kartheek Chinta
